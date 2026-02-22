@@ -1,0 +1,7 @@
+*.zip
+.DS_Store
+.AppleDouble
+.LSOverride
+.vscode/
+.idea/
+*.log

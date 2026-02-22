@@ -1,0 +1,11 @@
+{
+  "extensionName": {
+    "message": "One Page PDF"
+  },
+  "extensionDescription": {
+    "message": "Export in one click any web page as a single-page PDF."
+  },
+  "actionTitle": {
+    "message": "Export page to PDF"
+  }
+}
